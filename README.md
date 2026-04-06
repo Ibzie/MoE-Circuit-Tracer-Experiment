@@ -99,8 +99,7 @@ ALF collapses these into one by forcing H(Z) to its maximum, eliminating any con
 
 ## Paper
 
-The full writeup is in [`paper.pdf`](paper.pdf) — covers methodology, results, discussion, limitations, and citations.
-
+The full writeup is in [`MoE Circuit Tracing Study.pdf`](https://github.com/Ibzie/MoE-Circuit-Tracer-Experiment/blob/main/MoE%20Circuit%20Tracing%20Study.pdf) — covers methodology, results, discussion, limitations, and citations.
 ---
 
 ## Repo Structure
